@@ -13,7 +13,7 @@ for (i=0;i<=nom.length;i++){
     document.write(nom.charAt(i));
 }
 
-document.write("<h2>FASE 2</h2>");
+//document.write("<h2>FASE 2</h2>");
 
 var nomlist = ["m","a","r","i","0"];
 //document.write(nomlist[2]);
